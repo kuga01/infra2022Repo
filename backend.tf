@@ -2,7 +2,7 @@ terraform {
 
   backend "s3" {
 
-    bucket = "mydev-tf-state-bucket"
+    bucket = "mydev-tf-state-bucket-0123"
 
     key = "main"
 
