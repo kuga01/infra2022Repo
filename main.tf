@@ -4,8 +4,8 @@
 #
 #}
 required_providers {
-    aws = "~> 3.74"
-  }
+    aws = "~> 3.74" 
+}
 
 
 #Create security group with firewall rules
