@@ -1,5 +1,7 @@
-required_providers {
-    aws = "~> 3.74" 
+provider "aws" {
+
+  region = var.aws_region
+
 }
 
 #Create security group with firewall rules
