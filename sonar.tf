@@ -1,6 +1,6 @@
 resource "aws_instance" "mySonarInstance" {
 
-      ami           = "ami-0b9064170e32bde34"
+      ami           = "ami-0e472ba40eb589f49"
 
 
 
